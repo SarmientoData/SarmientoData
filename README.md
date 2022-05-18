@@ -1,8 +1,7 @@
 
-<div align="center">
-### Hi there 👋
+## Hi there 👋
 ## I'm Joaquin
-</div>
+
 
 I´m a Software Devoloper, currently studying to become a Backend Specialist. 
 
