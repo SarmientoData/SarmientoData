@@ -1,5 +1,8 @@
+
+<div align="center">
 ### Hi there 👋
 ## I'm Joaquin
+</div>
 
 I´m a Software Devoloper, currently studying to become a Backend Specialist. 
 
@@ -20,8 +23,8 @@ I´m a Software Devoloper, currently studying to become a Backend Specialist.
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/nouveau-riche"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://github.com/SarmientoData"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/joaqu%C3%ADn-sarmiento-131591203/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/joaquinsarmiento7/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/JoaquinSalta"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
