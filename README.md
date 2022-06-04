@@ -25,5 +25,5 @@ I´m a Software Devoloper, currently studying to become a Backend Specialist.
 	<a href="https://github.com/SarmientoData"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/joaqu%C3%ADn-sarmiento-131591203/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/joaquinsarmiento7/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/JoaquinSalta"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-squared.png"/>" alt="Twitter"/></a>
+	<a href="https://twitter.com/JoaquinSalta"><img src="https://img.icons8.com/bubbles/50/undefined/twitter-squared.png" alt="Twitter"/></a>
 </p>
