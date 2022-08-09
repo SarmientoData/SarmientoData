@@ -1,22 +1,14 @@
+🎯Hi there! My name is Joaquin. I'm an Italian-Argentinian citizen, and I define myself as a computational social scientist. 
 
-## Hi there 👋
-## I'm Joaquin
+👨‍💻I'm deeply interested in the intersection of computational sciences, statistics, and social sciences.
 
+ 👨‍🏫I reckon this emerging field has a great potential to make more accurate social predictions and better-informed decisions. 
 
-I´m a Software Devoloper, currently studying to become a Backend Specialist. 
+🥑 If you think my feedback can add you any value, please feel free to contact me. I'll do my best to reply ASAP!
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
+☕️ Let's build community togheter!
 
-- 🔭 I’m currently working on a Pharmacy Software
-- 🌱 I’m currently learning Java
-- 💬 Ask me about whatever you like
-- 📫 How to reach me: You can writeme to joaqsarmiento@gmail.com
+ #Javascript #Python #Java #CSS #selfimprovement #it #socialsciences #renewableenergy #energytransitions
 
 <br />
 
